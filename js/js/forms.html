@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form method="post">
+      Name: <input type="name" id="name" />
+      <br />
+      email:<input type="email" id="email" />
+      <br />
+      Mobile:<input type="mobile" id="mobile" />
+      <br />
+      <input type="button" value="submit" onclick="abc()" />
+
+      <script>
+        function abc() {
+          var name = document.getElementById("name").value;
+          var email = document.getElementById("email").value;
+          var mobile = document.getElementById("mobile").value;
+          alert(name + email + mobile);
+          if (name == "" || name == null) {
+            alert("pls enter name");
+            return false;
+          } else if (email == "" || email == null) {
+            alert("pls enter email");
+            return false;
+          } else if (mobile == "" || mobile == null) {
+            alert("pls enter mobile");
+            return false;
+          }
+        }
+      </script>
+    </form>
+  </body>
+</html>

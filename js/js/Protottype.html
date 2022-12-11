@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>Protottype</h2>
+    <script>
+      function person() {
+        this.name = "moni";
+        this.age = 23;
+      }
+      person.prototype.gender = "female";
+      var obj = new person();
+      //   obj.gender = "female";
+      var obj2 = new person();
+      console.log(obj);
+      console.log(obj2);
+    </script>
+  </body>
+</html>

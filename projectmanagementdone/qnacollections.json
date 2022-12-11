@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6220be0ddd73d9172f6cafff"
+  },
+  "email": "xyz1@gmail.com",
+  "project_id": "6218ed6e0ac8dfc00cdf13e5",
+  "question": "hello",
+  "answer": [
+    "ok",
+    "nice"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6220be12dd73d9172f6cb002"
+  },
+  "email": "xyz1@gmail.com",
+  "project_id": "6218ed6e0ac8dfc00cdf13e5",
+  "question": "hii",
+  "answer": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626673c3aef34b74628387bb"
+  },
+  "email": "moni.gangane@gmail.com",
+  "project_id": "6218ed560ac8dfc00cdf13e1",
+  "question": "nice",
+  "answer": [
+    "good",
+    "yes"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626673dcaef34b74628387c0"
+  },
+  "email": "moni.gangane@gmail.com",
+  "project_id": "6218ed560ac8dfc00cdf13e1",
+  "question": "good",
+  "answer": [
+    "okay",
+    "nice to meet you"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4c6bf1d35e6f76096439"
+  },
+  "email": "monali.gangane@gmail.com",
+  "project_id": "628f4c57f1d35e6f76096433",
+  "question": "what is html",
+  "answer": [
+    "ok"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4c75f1d35e6f7609643c"
+  },
+  "email": "monali.gangane@gmail.com",
+  "project_id": "628f4c57f1d35e6f76096433",
+  "question": "how are you css",
+  "answer": [
+    "nice"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4ca7f1d35e6f76096447"
+  },
+  "email": "monali.gangane@gmail.com",
+  "project_id": "628f4c9df1d35e6f76096442",
+  "question": "nice css",
+  "answer": [
+    "ok"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4cb1f1d35e6f7609644b"
+  },
+  "email": "monali.gangane@gmail.com",
+  "project_id": "628f4c9df1d35e6f76096442",
+  "question": "hii?",
+  "answer": [
+    "good"
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,58 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>stop watch</h2>
+    <div id="timer"></div>
+    <button onclick="start()">start</button>
+    <button onclick="end()">end</button>
+    <script>
+      count = 0;
+      function counter() {
+        count++;
+        document.getElementById("timer").innerHTML = count;
+      }
+      function start() {
+        interval = setInterval(counter, 1000);
+      }
+      function end() {
+        clearInterval(interval);
+        count = 0;
+      }
+    </script>
+  </body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body onload="bcd('purple')">
+    <h2>dom</h2>
+    <p id="target">how are you</p>
+    <input
+      type="button"
+      value="click"
+      onclick="abc()"
+      onmouseover="bcd('red')"
+      onmouseout="bcd('white')"
+    />
+    <script>
+      function abc() {
+        alert("hello");
+      }
+      function bcd(val) {
+        document.bgColor = val;
+      }
+    </script>
+  </body>
+</html> -->

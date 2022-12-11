@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62221274042e3576c3e3ac52"
+  },
+  "firstname": "Monali",
+  "lastname": "Gangane",
+  "email": "xyz@gmail.com",
+  "password": "$2b$10$1IO480tx7l44V8HJ4f460eOzrXya/lspxt6PElOCwyl1V0zrldwA2",
+  "profile": "user-images.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622212b6042e3576c3e3ac55"
+  },
+  "firstname": "Monali",
+  "lastname": "Gangane",
+  "email": "temp4.gangane@gmail.com",
+  "password": "$2b$10$oskh4oS6jfxn6U7WeWIvm.RjRVpMU3I/geQ8vZidbRW7f8f47Qn/K",
+  "profile": "user-download.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622b5ab36fc1b968def08de5"
+  },
+  "firstname": "Monali",
+  "lastname": "Gangane",
+  "email": "moni.gangane@gmail.com",
+  "password": "$2b$10$Aawn3/CRmemD2EEZ3BEipeARv9hnyWGrPZlOAOyssuUrcNm2Etcg.",
+  "profile": "user-meal-cropped@2x.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f4c05f1d35e6f7609642c"
+  },
+  "firstname": "Monali",
+  "lastname": "Gangane",
+  "email": "monali.gangane@gmail.com",
+  "password": "$2b$10$SgNxEi4c1.9Gi5hijIlCfuocpDiM0ShqAP/17wnf62lqeQHpDSKu6",
+  "profile": "user-images.jpg",
+  "__v": 0
+}]

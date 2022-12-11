@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p id="target">hii how are you</p>
+    <input type="button" value="click" onclick="abc()" />
+    <script>
+      function abc() {
+        var ele = document.getElementById("target");
+        var data = ele.innerHTML;
+        alert(data);
+        ele.innerHTML = "i am moni";
+        ele.style.color = "red";
+        ele.style.border = "2px solid yellow";
+      }
+    </script>
+  </body>
+</html>
